@@ -22,7 +22,7 @@ To set up the application on your local machine, follow these steps:
 
    ````
    git clone https://github.com/yourusername/country-app.git
-   cd country-app```
+   cd country-app
    ````
 
 2. **Install Dependencies:**
